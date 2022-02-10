@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 301}, "model": "item/netherite_sword/azure_greataxe" },
+		{ "predicate": { "custom_model_data": 302}, "model": "item/netherite_sword/skeletonaxe" },
+		{ "predicate": { "custom_model_data": 303}, "model": "item/netherite_sword/cleaver" }
+	]
+}

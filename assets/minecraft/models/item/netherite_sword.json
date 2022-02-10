@@ -1,0 +1,21 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/netherite_sword/1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/netherite_sword/2" },
+		{ "predicate": { "custom_model_data": 201}, "model": "item/lightsabers/dbside_red" },
+		{ "predicate": { "custom_model_data": 202}, "model": "item/lightsabers/siside_red" },
+		{ "predicate": { "custom_model_data": 203}, "model": "item/lightsabers/blue" },
+		{ "predicate": { "custom_model_data": 204}, "model": "item/lightsabers/green" },
+		{ "predicate": { "custom_model_data": 205}, "model": "item/lightsabers/purple" },
+		{ "predicate": { "custom_model_data": 301}, "model": "item/netherite_sword/demonic" },
+		{ "predicate": { "custom_model_data": 302}, "model": "item/netherite_sword/azure_greatsword" },
+		{ "predicate": { "custom_model_data": 303}, "model": "item/netherite_sword/azure_scythe" },
+		{ "predicate": { "custom_model_data": 304}, "model": "item/netherite_sword/bludgeon" },
+		{ "predicate": { "custom_model_data": 305}, "model": "item/netherite_sword/spider" },
+		{ "predicate": { "custom_model_data": 306}, "model": "item/netherite_sword/nature" }
+	]
+}
