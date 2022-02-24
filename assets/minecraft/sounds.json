@@ -1,0 +1,11 @@
+{
+    "ambient.cave": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "ambient/cave/sus",
+                "weight": 1
+            } 
+        ]
+    }
+}
