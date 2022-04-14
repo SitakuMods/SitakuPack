@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 104}, "model": "item/hats/plague_cleric" },
 		{ "predicate": { "custom_model_data": 105}, "model": "item/hats/plague_doctor" },
 		{ "predicate": { "custom_model_data": 106}, "model": "item/hats/mining_helmet" },
-		{ "predicate": { "custom_model_data": 107}, "model": "item/hats/phantom_hide" }
+		{ "predicate": { "custom_model_data": 107}, "model": "item/hats/phantom_hide" },
+		{ "predicate": { "custom_model_data": 108}, "model": "item/hats/goggles" }
 	]
 }
