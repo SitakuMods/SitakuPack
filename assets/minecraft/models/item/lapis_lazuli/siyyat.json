@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/siyyat"
+		"layer0": "item/create/siyyat"
 	}
 }
