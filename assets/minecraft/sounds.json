@@ -7,5 +7,133 @@
                 "weight": 1
             } 
         ]
+    },
+    "music.nether.nether_wastes": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "music/nether_wastes",
+                "weight": 1
+            } 
+        ]
+    },
+    "music.nether.crimson_forest": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "music/crimson_forest",
+                "weight": 1
+            } 
+        ]
+    },
+    "music.nether.soul_sand_valley": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "music/soul_sand_valley",
+                "weight": 1
+            } 
+        ]
+    },
+    "music.nether.basalt_deltas": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "music/basalt_deltas",
+                "weight": 1
+            } 
+        ]
+    },
+    "entity.wandering_trader.ambient": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/5d_footlong",
+                "weight": 1
+            },
+            {
+                "name": "mob/wandering_trader/aexbo",
+                "weight": 1
+            },
+            {
+                "name": "mob/wandering_trader/moin_un_footlong",
+                "weight": 1
+            }  
+        ]
+    },
+    "entity.wandering_trader.death": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/laugh2",
+                "weight": 1
+            } 
+        ]
+    },
+    "entity.wandering_trader.disappeared": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/intriguing",
+                "weight": 1
+            } 
+        ]
+    },
+    "entity.wandering_trader.hurt": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/laugh1",
+                "weight": 1
+            },
+            {
+                "name": "mob/wandering_trader/laugh3",
+                "weight": 1
+            }
+        ]
+    },
+    "entity.wandering_trader.no": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/sufer",
+                "weight": 1
+            } 
+        ]
+    },
+    "entity.wandering_trader.reappeared": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/intriguing",
+                "weight": 1
+            } 
+        ]
+    },
+    "entity.wandering_trader.trade": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/two_price",
+                "weight": 1
+            },
+            {
+                "name": "mob/wandering_trader/sandwich_cheap",
+                "weight": 1
+            },
+            {
+                "name": "mob/wandering_trader/sandwich_neg",
+                "weight": 1
+            }  
+        ]
+    },
+    "entity.wandering_trader.yes": {
+        "replace":true,
+        "sounds":[
+            {
+                "name": "mob/wandering_trader/satisfactory",
+                "weight": 1
+            } 
+        ]
     }
 }
