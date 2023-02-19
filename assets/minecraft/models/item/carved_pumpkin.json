@@ -8,6 +8,20 @@
 		{ "predicate": { "custom_model_data": 105}, "model": "item/hats/plague_doctor" },
 		{ "predicate": { "custom_model_data": 106}, "model": "item/hats/mining_helmet" },
 		{ "predicate": { "custom_model_data": 107}, "model": "item/hats/phantom_hide" },
-		{ "predicate": { "custom_model_data": 108}, "model": "item/hats/goggles" }
+		{ "predicate": { "custom_model_data": 108}, "model": "item/hats/goggles" },
+		{ "predicate": { "custom_model_data": 109}, "model": "item/hats/kirby1" },
+		{ "predicate": { "custom_model_data": 110}, "model": "item/hats/ichimegasa1" },
+		{ "predicate": { "custom_model_data": 111}, "model": "item/hats/kasahat1" },
+		{ "predicate": { "custom_model_data": 201}, "model": "item/hats/caps/cap1black" },
+		{ "predicate": { "custom_model_data": 202}, "model": "item/hats/caps/cap1blue" },
+		{ "predicate": { "custom_model_data": 203}, "model": "item/hats/caps/cap1red" },
+		{ "predicate": { "custom_model_data": 204}, "model": "item/hats/caps/cap1white" },
+		{ "predicate": { "custom_model_data": 205}, "model": "item/hats/caps/cap1yellow" },
+		{ "predicate": { "custom_model_data": 206}, "model": "item/hats/caps/cap1plaidbrown1" },
+		{ "predicate": { "custom_model_data": 207}, "model": "item/hats/caps/cap1plaidbrown2" },
+		{ "predicate": { "custom_model_data": 208}, "model": "item/hats/caps/cap1plaidgreen1" },
+		{ "predicate": { "custom_model_data": 209}, "model": "item/hats/caps/cap1plaidgreen2" },
+		{ "predicate": { "custom_model_data": 210}, "model": "item/hats/caps/cap1plaidred1" },
+		{ "predicate": { "custom_model_data": 211}, "model": "item/hats/caps/cap1plaidred2" }
 	]
 }
