@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/iron"
+		"layer0": "item/golf/putter"
 	},
 	"display": {
 		"thirdperson_righthand": {
