@@ -8,42 +8,6 @@
             } 
         ]
     },
-    "music.nether.nether_wastes": {
-        "replace":true,
-        "sounds":[
-            {
-                "name": "music/nether_wastes",
-                "weight": 1
-            } 
-        ]
-    },
-    "music.nether.crimson_forest": {
-        "replace":true,
-        "sounds":[
-            {
-                "name": "music/crimson_forest",
-                "weight": 1
-            } 
-        ]
-    },
-    "music.nether.soul_sand_valley": {
-        "replace":true,
-        "sounds":[
-            {
-                "name": "music/soul_sand_valley",
-                "weight": 1
-            } 
-        ]
-    },
-    "music.nether.basalt_deltas": {
-        "replace":true,
-        "sounds":[
-            {
-                "name": "music/basalt_deltas",
-                "weight": 1
-            } 
-        ]
-    },
     "entity.wandering_trader.ambient": {
         "replace":true,
         "sounds":[

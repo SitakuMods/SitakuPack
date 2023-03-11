@@ -4,8 +4,6 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/netherite_sword/1" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/netherite_sword/2" },
 		{ "predicate": { "custom_model_data": 201}, "model": "item/lightsabers/dbside_red" },
 		{ "predicate": { "custom_model_data": 202}, "model": "item/lightsabers/siside_red" },
 		{ "predicate": { "custom_model_data": 203}, "model": "item/lightsabers/blue" },
