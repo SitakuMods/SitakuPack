@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
 	"textures": {
-		"iron": "creatorlabs/lightsabers/mace/iron",
-		"black_iron": "creatorlabs/lightsabers/mace/black_iron",
-		"gold": "creatorlabs/lightsabers/mace/gold",
-		"laser": "creatorlabs/lightsabers/mace/laser_purple"
+		"iron": "item/netherite_sword/lightsabers/mace/iron",
+		"black_iron": "item/netherite_sword/lightsabers/mace/black_iron",
+		"gold": "item/netherite_sword/lightsabers/mace/gold",
+		"laser": "item/netherite_sword/lightsabers/mace/laser_purple"
 	},
 	"elements": [ 	 
 		{

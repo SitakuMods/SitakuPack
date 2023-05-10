@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
 	"textures": {
-		"black_iron": "creatorlabs/lightsabers/kylo/black_iron",
-		"laser": "creatorlabs/lightsabers/kylo/laser_red",
-		"iron": "creatorlabs/lightsabers/kylo/iron",
-		"red": "creatorlabs/lightsabers/kylo/red",
-		"gold": "creatorlabs/lightsabers/kylo/gold"
+		"black_iron": "item/netherite_sword/lightsabers/kylo/black_iron",
+		"laser": "item/netherite_sword/lightsabers/kylo/laser_red",
+		"iron": "item/netherite_sword/lightsabers/kylo/iron",
+		"red": "item/netherite_sword/lightsabers/kylo/red",
+		"gold": "item/netherite_sword/lightsabers/kylo/gold"
 	},
 	"elements": [ 	 
 		{
