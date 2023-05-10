@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/Hananacraft archive/basket_laundry_bottom",
-		"2": "block/Kasa_Hat/kasahat_curtain_1",
-		"3": "block/Kasa_Hat/kasahat_curtain_2",
-		"4": "block/Kasa_Hat/kasahat_curtain_1_end",
-		"5": "block/Kasa_Hat/kasahat_mod_1",
-		"6": "block/Kasa_Hat/kasahat_mod_2",
-		"7": "block/Kasa_Hat/kasahat_mod_3",
-		"particle": "block/Hananacraft archive/basket_laundry_bottom"
+		"0": "item/hats/Hananacraft_archive/basket_laundry_bottom",
+		"2": "item/hats/Kasa_Hat/kasahat_curtain_1",
+		"3": "item/hats/Kasa_Hat/kasahat_curtain_2",
+		"4": "item/hats/Kasa_Hat/kasahat_curtain_1_end",
+		"5": "item/hats/Kasa_Hat/kasahat_mod_1",
+		"6": "item/hats/Kasa_Hat/kasahat_mod_2",
+		"7": "item/hats/Kasa_Hat/kasahat_mod_3",
+		"particle": "item/hats/Hananacraft_archive/basket_laundry_bottom"
 	},
 	"elements": [
 		{

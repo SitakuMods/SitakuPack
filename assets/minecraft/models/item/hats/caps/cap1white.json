@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/white_wool",
-		"1": "block/beret1_stitch",
+		"1": "item/hats/beret1_stitch",
 		"particle": "block/white_wool"
 	},
 	"elements": [

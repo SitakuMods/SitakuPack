@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/Hananacraft archive/plaid_green",
-		"1": "block/beret1_stitch",
-		"2": "block/Hananacraft archive/white_wool_futontop",
-		"particle": "block/Hananacraft archive/plaid_green"
+		"0": "item/hats/Hananacraft_archive/plaid_green",
+		"1": "item/hats/beret1_stitch",
+		"2": "item/hats/Hananacraft_archive/white_wool_futontop",
+		"particle": "item/hats/Hananacraft_archive/plaid_green"
 	},
 	"elements": [
 		{
