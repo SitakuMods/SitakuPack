@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/melon"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 42069}, "model": "item/food/fruits/honeymelon" }
+	]
+}
