@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/food/fruits/orange"
+		"layer0": "item/food/vegetables/pikpik_carrot"
 	}
 }

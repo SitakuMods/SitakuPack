@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/golf/ball"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/golf/ball"},
+		{"predicate": {"custom_model_data": 100}, "model": "item/food/vegetables/rotten_tomato"}
 	]
 }
