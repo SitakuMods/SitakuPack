@@ -14,6 +14,6 @@
 		{ "predicate": { "custom_model_data": 108}, "model": "item/food/sushi/roll_salmon" },
 		{ "predicate": { "custom_model_data": 109}, "model": "item/food/sushi/roll_tuna" },
 		{ "predicate": { "custom_model_data": 110}, "model": "item/food/sushi/roll_cucumber" },
-		{ "predicate": { "custom_model_data": 111}, "model": "item/food/sushi/roll_kimbap" },
+		{ "predicate": { "custom_model_data": 111}, "model": "item/food/sushi/roll_kimbap" }
 	]
 }

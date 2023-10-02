@@ -8,4 +8,5 @@
 		{ "predicate": { "custom_model_data": 2}, "model": "item/food/chips" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/food/nachos" },
 		{ "predicate": { "custom_model_data": 999}, "model": "item/food/pringles" }
+	]
 }
