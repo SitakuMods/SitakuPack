@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cooked_cod"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 101}, "model": "item/food/sushi/nigiri_eel" },
+		{ "predicate": { "custom_model_data": 102}, "model": "item/food/sushi/nigiri_salmon" },
+		{ "predicate": { "custom_model_data": 103}, "model": "item/food/sushi/nigiri_shrimp" },
+		{ "predicate": { "custom_model_data": 104}, "model": "item/food/sushi/nigiri_squid" },
+		{ "predicate": { "custom_model_data": 105}, "model": "item/food/sushi/nigiri_tuna" },
+		{ "predicate": { "custom_model_data": 106}, "model": "item/food/sushi/roll_ikura" },
+		{ "predicate": { "custom_model_data": 107}, "model": "item/food/sushi/roll_uni" },
+		{ "predicate": { "custom_model_data": 108}, "model": "item/food/sushi/roll_salmon" },
+		{ "predicate": { "custom_model_data": 109}, "model": "item/food/sushi/roll_tuna" },
+		{ "predicate": { "custom_model_data": 110}, "model": "item/food/sushi/roll_cucumber" },
+		{ "predicate": { "custom_model_data": 111}, "model": "item/food/sushi/roll_kimbap" },
+	]
+}

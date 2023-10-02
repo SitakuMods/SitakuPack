@@ -9,6 +9,6 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/food/vegetables/leek" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/food/vegetables/lettuce" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/food/vegetables/tomato" },
-		{ "predicate": { "custom_model_data": 100}, "model": "item/food/vegetables/pikpik_carrot" }
+		{ "predicate": { "custom_model_data": 404}, "model": "item/food/vegetables/pikpik_carrot" }
 	]
 }

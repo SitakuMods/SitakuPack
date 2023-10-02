@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/mushroom_stew"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/food/rice_bowl" }
+	]
+}

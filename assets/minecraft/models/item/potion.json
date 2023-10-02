@@ -5,16 +5,17 @@
 		"layer1": "item/potion"
 	},
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/potion/juice_glass" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/potion/tea_pot" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/potion/wine_glass" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/potion/cocktail_glass" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/potion/shot_glass" },
 		{ "predicate": { "custom_model_data": 101}, "model": "item/potion/red" },
 		{ "predicate": { "custom_model_data": 102}, "model": "item/potion/purple" },
 		{ "predicate": { "custom_model_data": 103}, "model": "item/potion/green" },
 		{ "predicate": { "custom_model_data": 104}, "model": "item/potion/blue" },
 		{ "predicate": { "custom_model_data": 105}, "model": "item/potion/can" },
-		{ "predicate": { "custom_model_data": 106}, "model": "item/potion/teacup" },
-		{ "predicate": { "custom_model_data": 107}, "model": "item/potion/soup" },
-		{ "predicate": { "custom_model_data": 201}, "model": "item/potion/glass_wine" },
-		{ "predicate": { "custom_model_data": 202}, "model": "item/potion/glass_beer" },
-		{ "predicate": { "custom_model_data": 203}, "model": "item/potion/glass_cocktail" },
+		{ "predicate": { "custom_model_data": 106}, "model": "item/potion/soup" },
 		{ "predicate": { "custom_model_data": 301}, "model": "item/potion/jelly" }
 	]
 }

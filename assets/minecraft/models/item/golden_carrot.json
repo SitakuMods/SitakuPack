@@ -4,6 +4,6 @@
 		"layer0": "item/golden_carrot"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 100}, "model": "item/food/vegetables/golden_pikpik_carrot" }
+		{ "predicate": { "custom_model_data": 404}, "model": "item/food/vegetables/golden_pikpik_carrot" }
 	]
 }
