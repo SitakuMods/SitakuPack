@@ -14,8 +14,13 @@
 		{ "predicate": { "custom_model_data": 102}, "model": "item/potion/purple" },
 		{ "predicate": { "custom_model_data": 103}, "model": "item/potion/green" },
 		{ "predicate": { "custom_model_data": 104}, "model": "item/potion/blue" },
-		{ "predicate": { "custom_model_data": 105}, "model": "item/potion/can" },
-		{ "predicate": { "custom_model_data": 106}, "model": "item/potion/soup" },
-		{ "predicate": { "custom_model_data": 301}, "model": "item/potion/jelly" }
+		{ "predicate": { "custom_model_data": 201}, "model": "item/potion/soda/soda_a" },
+		{ "predicate": { "custom_model_data": 202}, "model": "item/potion/soda/soda_b" },
+		{ "predicate": { "custom_model_data": 203}, "model": "item/potion/soda/soda_c" },
+		{ "predicate": { "custom_model_data": 204}, "model": "item/potion/soda/soda_cola" },
+		{ "predicate": { "custom_model_data": 205}, "model": "item/potion/soda/soda_dew" },
+		{ "predicate": { "custom_model_data": 206}, "model": "item/potion/soda/soda_grape" },
+		{ "predicate": { "custom_model_data": 207}, "model": "item/potion/soda/soda_orange" },
+		{ "predicate": { "custom_model_data": 208}, "model": "item/potion/soda/soda_sprite" }
 	]
 }

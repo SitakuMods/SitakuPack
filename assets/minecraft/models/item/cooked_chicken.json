@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cooked_chicken"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/food/fried_chicken" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/food/fried_chicken_bucket" }
+	]
+}

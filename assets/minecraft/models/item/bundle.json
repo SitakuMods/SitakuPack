@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bundle"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 999}, "model": "item/food/pringles" }
+	]
+}

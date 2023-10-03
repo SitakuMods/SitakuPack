@@ -24,6 +24,11 @@
 		{ "predicate": { "custom_model_data": 208}, "model": "item/hats/caps/cap1plaidgreen1" },
 		{ "predicate": { "custom_model_data": 209}, "model": "item/hats/caps/cap1plaidgreen2" },
 		{ "predicate": { "custom_model_data": 210}, "model": "item/hats/caps/cap1plaidred1" },
-		{ "predicate": { "custom_model_data": 211}, "model": "item/hats/caps/cap1plaidred2" }
+		{ "predicate": { "custom_model_data": 211}, "model": "item/hats/caps/cap1plaidred2" },
+		{ "predicate": { "custom_model_data": 301}, "model": "item/food/block_models/platter_chicken" },
+		{ "predicate": { "custom_model_data": 302}, "model": "item/food/block_models/platter_sushi" },
+		{ "predicate": { "custom_model_data": 303}, "model": "item/food/block_models/platter_ham" },
+		{ "predicate": { "custom_model_data": 304}, "model": "item/food/block_models/platter_pie" },
+		{ "predicate": { "custom_model_data": 305}, "model": "item/food/block_models/platter_pumpkin" }
 	]
 }

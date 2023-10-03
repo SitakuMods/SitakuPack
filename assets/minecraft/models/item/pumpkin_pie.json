@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pumpkin_pie"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 101}, "model": "item/food/jelly/jelly_blue" },
+		{ "predicate": { "custom_model_data": 102}, "model": "item/food/jelly/jelly_grape" },
+		{ "predicate": { "custom_model_data": 103}, "model": "item/food/jelly/jelly_lemon" },
+		{ "predicate": { "custom_model_data": 104}, "model": "item/food/jelly/jelly_lime" },
+		{ "predicate": { "custom_model_data": 105}, "model": "item/food/jelly/jelly_orange" },
+		{ "predicate": { "custom_model_data": 106}, "model": "item/food/jelly/jelly_strawberry" }
+	]
+}
