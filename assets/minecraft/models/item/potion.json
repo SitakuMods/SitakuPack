@@ -21,6 +21,8 @@
 		{ "predicate": { "custom_model_data": 205}, "model": "item/potion/soda/soda_dew" },
 		{ "predicate": { "custom_model_data": 206}, "model": "item/potion/soda/soda_grape" },
 		{ "predicate": { "custom_model_data": 207}, "model": "item/potion/soda/soda_orange" },
-		{ "predicate": { "custom_model_data": 208}, "model": "item/potion/soda/soda_sprite" }
+		{ "predicate": { "custom_model_data": 208}, "model": "item/potion/soda/soda_sprite" },
+		{ "predicate": { "custom_model_data": 209}, "model": "item/potion/soda/soda_melon" },
+		{ "predicate": { "custom_model_data": 210}, "model": "item/potion/soda/soda_peach" }
 	]
 }

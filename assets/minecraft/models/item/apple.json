@@ -8,6 +8,10 @@
 		{ "predicate": { "custom_model_data": 2}, "model": "item/food/fruits/banana" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/food/fruits/orange" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/food/fruits/mango" },
-		{ "predicate": { "custom_model_data": 5}, "model": "item/food/fruits/peach" }
+		{ "predicate": { "custom_model_data": 5}, "model": "item/food/fruits/peach" },
+		{ "predicate": { "custom_model_data": 201}, "model": "item/food/fruits/banana_0" },
+		{ "predicate": { "custom_model_data": 202}, "model": "item/food/fruits/banana_1" },
+		{ "predicate": { "custom_model_data": 203}, "model": "item/food/fruits/banana_2" },
+		{ "predicate": { "custom_model_data": 204}, "model": "item/food/fruits/banana_3" }
 	]
 }
