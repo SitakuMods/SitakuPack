@@ -8,12 +8,7 @@
       "name": "English",
       "region": "Sitaku",
       "bidirectional": false
-    }
-	"tf_sk": {
-      "name": "Tufarik",
-      "region": "No longer updated; Sitaku",
-      "bidirectional": false
-    }
+    },
 	"ri_sk": {
       "name": "Rikatisyï",
       "region": "Sitaku",
