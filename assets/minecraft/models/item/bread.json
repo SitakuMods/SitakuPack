@@ -6,6 +6,9 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/food/croissant" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/food/sweet_roll" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/food/donut" }
+		{ "predicate": { "custom_model_data": 3}, "model": "item/food/donut" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/food/onigiri" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/food/tofu" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/food/christmas_pudding" }
 	]
 }
