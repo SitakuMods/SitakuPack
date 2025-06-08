@@ -5,6 +5,17 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/golf/whistle"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/golf/whistle"},
+		{"predicate": {"custom_model_data": 1001}, "model": "item/fish/cockle"},
+		{"predicate": {"custom_model_data": 1002}, "model": "item/fish/mussel"},
+		{"predicate": {"custom_model_data": 1003}, "model": "item/fish/neptunium_nugget"},
+		{"predicate": {"custom_model_data": 1004}, "model": "item/fish/pearl"},
+		{"predicate": {"custom_model_data": 1005}, "model": "item/fish/scallop"},
+		{"predicate": {"custom_model_data": 1006}, "model": "item/fish/whelk"},
+		{"predicate": {"custom_model_data": 2001}, "model": "item/fish/3d_models/crab"},
+		{"predicate": {"custom_model_data": 2002}, "model": "item/fish/3d_models/lobster"},
+		{"predicate": {"custom_model_data": 2003}, "model": "item/fish/3d_models/nautilus"},
+		{"predicate": {"custom_model_data": 2004}, "model": "item/fish/3d_models/shark"},
+		{"predicate": {"custom_model_data": 2005}, "model": "item/fish/3d_models/trilobite"}
 	]
 }

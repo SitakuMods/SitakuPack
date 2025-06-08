@@ -1,0 +1,41 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/tropical_fish"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data": 1001}, "model": "item/fish/blobfish"},
+		{"predicate": {"custom_model_data": 1002}, "model": "item/fish/bluegill"},
+		{"predicate": {"custom_model_data": 1003}, "model": "item/fish/box_turtle"},
+		{"predicate": {"custom_model_data": 1004}, "model": "item/fish/bumphead"},
+		{"predicate": {"custom_model_data": 1005}, "model": "item/fish/carp"},
+		{"predicate": {"custom_model_data": 1006}, "model": "item/fish/catfish"},
+		{"predicate": {"custom_model_data": 1007}, "model": "item/fish/cosmic_cod"},
+		{"predicate": {"custom_model_data": 1008}, "model": "item/fish/flying_fish"},
+		{"predicate": {"custom_model_data": 1009}, "model": "item/fish/frogfish"},
+		{"predicate": {"custom_model_data": 1010}, "model": "item/fish/glow_squid"},
+		{"predicate": {"custom_model_data": 1011}, "model": "item/fish/goldfish"},
+		{"predicate": {"custom_model_data": 1012}, "model": "item/fish/herring"},
+		{"predicate": {"custom_model_data": 1013}, "model": "item/fish/jellyfish"},
+		{"predicate": {"custom_model_data": 1014}, "model": "item/fish/koi"},
+		{"predicate": {"custom_model_data": 1015}, "model": "item/fish/lanternfish"},
+		{"predicate": {"custom_model_data": 1016}, "model": "item/fish/leech"},
+		{"predicate": {"custom_model_data": 1017}, "model": "item/fish/minnow"},
+		{"predicate": {"custom_model_data": 1018}, "model": "item/fish/needlefish"},
+		{"predicate": {"custom_model_data": 1019}, "model": "item/fish/perch"},
+		{"predicate": {"custom_model_data": 1020}, "model": "item/fish/pike"},
+		{"predicate": {"custom_model_data": 1021}, "model": "item/fish/piranha"},
+		{"predicate": {"custom_model_data": 1022}, "model": "item/fish/pollock"},
+		{"predicate": {"custom_model_data": 1023}, "model": "item/fish/rainbow_trout"},
+		{"predicate": {"custom_model_data": 1024}, "model": "item/fish/red_grouper"},
+		{"predicate": {"custom_model_data": 1025}, "model": "item/fish/sacabambaspis"},
+		{"predicate": {"custom_model_data": 1026}, "model": "item/fish/scampi"},
+		{"predicate": {"custom_model_data": 1027}, "model": "item/fish/sea_pig"},
+		{"predicate": {"custom_model_data": 1028}, "model": "item/fish/shrimp"},
+		{"predicate": {"custom_model_data": 1029}, "model": "item/fish/squid"},
+		{"predicate": {"custom_model_data": 1030}, "model": "item/fish/tuna"},
+		{"predicate": {"custom_model_data": 1031}, "model": "item/fish/turbot"},
+		{"predicate": {"custom_model_data": 1032}, "model": "item/fish/worm"}
+	]
+}
