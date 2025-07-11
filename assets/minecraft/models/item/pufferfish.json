@@ -7,6 +7,9 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1001}, "model": "item/fish/lionfish"},
 		{"predicate": {"custom_model_data": 1002}, "model": "item/fish/lionfish2"},
-		{"predicate": {"custom_model_data": 1003}, "model": "item/fish/radgill"}
+		{"predicate": {"custom_model_data": 1003}, "model": "item/fish/radgill"},
+		{"predicate": {"custom_model_data": 1004}, "model": "item/fish/box_jelly"},
+		{"predicate": {"custom_model_data": 1005}, "model": "item/fish/sea_slug"},
+		{"predicate": {"custom_model_data": 1006}, "model": "item/fish/urchin"}
 	]
 }

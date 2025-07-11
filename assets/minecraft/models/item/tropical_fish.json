@@ -36,6 +36,17 @@
 		{"predicate": {"custom_model_data": 1029}, "model": "item/fish/squid"},
 		{"predicate": {"custom_model_data": 1030}, "model": "item/fish/tuna"},
 		{"predicate": {"custom_model_data": 1031}, "model": "item/fish/turbot"},
-		{"predicate": {"custom_model_data": 1032}, "model": "item/fish/worm"}
+		{"predicate": {"custom_model_data": 1032}, "model": "item/fish/worm"},
+		{"predicate": {"custom_model_data": 1033}, "model": "item/fish/anemone"},
+		{"predicate": {"custom_model_data": 1034}, "model": "item/fish/angelfish"},
+		{"predicate": {"custom_model_data": 1035}, "model": "item/fish/anglerfish"},
+		{"predicate": {"custom_model_data": 1036}, "model": "item/fish/butterfly_fish"},
+		{"predicate": {"custom_model_data": 1037}, "model": "item/fish/dory"},
+		{"predicate": {"custom_model_data": 1038}, "model": "item/fish/mantis_shrimp"},
+		{"predicate": {"custom_model_data": 1039}, "model": "item/fish/moon_jelly"},
+		{"predicate": {"custom_model_data": 1040}, "model": "item/fish/mysterious_worm"},
+		{"predicate": {"custom_model_data": 1041}, "model": "item/fish/pale_blinnow"},
+		{"predicate": {"custom_model_data": 1042}, "model": "item/fish/rainbow_blinnow"},
+		{"predicate": {"custom_model_data": 1043}, "model": "item/fish/stingray"}
 	]
 }
