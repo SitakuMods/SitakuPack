@@ -1,13 +1,7 @@
 {
-  "pack": {
-    "pack_format": 34,
-    "description": "§1§lSi§9ta§cku §ePack §r§7v5.2.0\n§f§olast updated: jul-11-2025"
-  },
-  "language": {
-    "en_sk": {
-      "name": "English",
-      "region": "Sitaku",
-      "bidirectional": false
+    "pack": {
+        "min_format": 69,
+        "max_format": 69,
+        "description": "\u00a71\u00a7lSi\u00a79ta\u00a7cku \u00a7ePack \u00a7r\u00a77v5.2.1b\n\u00a7f\u00a7olast updated: jan-04-2026"
     }
-  }
 }

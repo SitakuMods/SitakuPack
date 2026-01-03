@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "item/golf/whistle"
+                }
+            },
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/cockle"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/mussel"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/neptunium_nugget"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/pearl"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/scallop"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/whelk"
+                }
+            },
+            {
+                "threshold": 2001,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/3d_models/crab"
+                }
+            },
+            {
+                "threshold": 2002,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/3d_models/lobster"
+                }
+            },
+            {
+                "threshold": 2003,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/3d_models/nautilus"
+                }
+            },
+            {
+                "threshold": 2004,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/3d_models/shark"
+                }
+            },
+            {
+                "threshold": 2005,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/3d_models/trilobite"
+                }
+            }
+        ]
+    }
+}

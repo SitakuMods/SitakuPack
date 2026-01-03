@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/pumpkin_pie"
+        },
+        "entries": [
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_blue"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_grape"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_lemon"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_lime"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_orange"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "model",
+                    "model": "item/food/jelly/jelly_strawberry"
+                }
+            }
+        ]
+    }
+}

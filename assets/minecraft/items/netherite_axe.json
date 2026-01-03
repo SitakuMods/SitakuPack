@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_axe"
+        },
+        "entries": [
+            {
+                "threshold": 301,
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_sword/azure_greataxe"
+                }
+            },
+            {
+                "threshold": 302,
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_sword/skeletonaxe"
+                }
+            },
+            {
+                "threshold": 303,
+                "model": {
+                    "type": "model",
+                    "model": "item/netherite_sword/cleaver"
+                }
+            }
+        ]
+    }
+}
