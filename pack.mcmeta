@@ -1,7 +1,19 @@
 {
     "pack": {
         "min_format": 69,
-        "max_format": 69,
-        "description": "\u00a71\u00a7lSi\u00a79ta\u00a7cku \u00a7ePack \u00a7r\u00a77v5.2.1b\n\u00a7f\u00a7olast updated: jan-04-2026"
-    }
+        "max_format": 97.1,
+        "description": "\u00a71\u00a7lSi\u00a79ta\u00a7cku \u00a7ePack \u00a7r\u00a77v6.0.0\n\u00a7f\u00a7olast updated: nov-07-2026"
+    },
+	"language": {
+	        "en_sk": {
+		        "name": "English",
+		        "region": "Sitaku",
+		        "bidirectional": false
+			},
+			"ri_sk": {
+		        "name": "Rikatisyï",
+		        "region": "Sitaku",
+		        "bidirectional": false
+			}
+	}
 }
