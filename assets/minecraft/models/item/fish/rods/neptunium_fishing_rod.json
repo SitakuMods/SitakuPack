@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fish/rods/neptunium_fishing_rod_uncast"
+    }
+}

@@ -1,0 +1,108 @@
+{
+  "variants": {
+    "facing=north,half=lower": {
+      "model": "minecraft:block/cattail_bottom"
+    },
+    "facing=north,half=upper": {
+      "model": "minecraft:block/cattail_top"
+    },
+    "facing=south,half=lower": {
+      "model": "minecraft:block/rice_supporting",
+      "y": 180
+    },
+    "facing=south,half=upper": [
+      {
+        "model": "minecraft:block/rice_upper_crop_stage2",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/rice_upper_crop_stage3",
+        "weight": 20
+      }
+    ],
+    "facing=east,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10
+      }
+    ],
+    "facing=east,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10
+      }
+    ],
+    "facing=west,half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "weight": 10
+      }
+    ],
+    "facing=west,half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10,
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "weight": 10
+      }
+    ]
+  }
+}

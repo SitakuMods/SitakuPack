@@ -1,0 +1,313 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/tropical_fish"
+        },
+        "entries": [
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/blobfish"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/bluegill"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/box_turtle"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/bumphead"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/carp"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/catfish"
+                }
+            },
+            {
+                "threshold": 1007,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/cosmic_cod"
+                }
+            },
+            {
+                "threshold": 1008,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/flying_fish"
+                }
+            },
+            {
+                "threshold": 1009,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/frogfish"
+                }
+            },
+            {
+                "threshold": 1010,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/glow_squid"
+                }
+            },
+            {
+                "threshold": 1011,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/goldfish"
+                }
+            },
+            {
+                "threshold": 1012,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/herring"
+                }
+            },
+            {
+                "threshold": 1013,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/jellyfish"
+                }
+            },
+            {
+                "threshold": 1014,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/koi"
+                }
+            },
+            {
+                "threshold": 1015,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/lanternfish"
+                }
+            },
+            {
+                "threshold": 1016,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/leech"
+                }
+            },
+            {
+                "threshold": 1017,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/minnow"
+                }
+            },
+            {
+                "threshold": 1018,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/needlefish"
+                }
+            },
+            {
+                "threshold": 1019,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/perch"
+                }
+            },
+            {
+                "threshold": 1020,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/pike"
+                }
+            },
+            {
+                "threshold": 1021,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/piranha"
+                }
+            },
+            {
+                "threshold": 1022,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/pollock"
+                }
+            },
+            {
+                "threshold": 1023,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/rainbow_trout"
+                }
+            },
+            {
+                "threshold": 1024,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/red_grouper"
+                }
+            },
+            {
+                "threshold": 1025,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/sacabambaspis"
+                }
+            },
+            {
+                "threshold": 1026,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/scampi"
+                }
+            },
+            {
+                "threshold": 1027,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/sea_pig"
+                }
+            },
+            {
+                "threshold": 1028,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/shrimp"
+                }
+            },
+            {
+                "threshold": 1029,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/squid"
+                }
+            },
+            {
+                "threshold": 1030,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/tuna"
+                }
+            },
+            {
+                "threshold": 1031,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/turbot"
+                }
+            },
+            {
+                "threshold": 1032,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/worm"
+                }
+            },
+            {
+                "threshold": 1033,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/anemone"
+                }
+            },
+            {
+                "threshold": 1034,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/angelfish"
+                }
+            },
+            {
+                "threshold": 1035,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/anglerfish"
+                }
+            },
+            {
+                "threshold": 1036,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/butterfly_fish"
+                }
+            },
+            {
+                "threshold": 1037,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/dory"
+                }
+            },
+            {
+                "threshold": 1038,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/mantis_shrimp"
+                }
+            },
+            {
+                "threshold": 1039,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/moon_jelly"
+                }
+            },
+            {
+                "threshold": 1040,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/mysterious_worm"
+                }
+            },
+            {
+                "threshold": 1041,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/pale_blinnow"
+                }
+            },
+            {
+                "threshold": 1042,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/rainbow_blinnow"
+                }
+            },
+            {
+                "threshold": 1043,
+                "model": {
+                    "type": "model",
+                    "model": "item/fish/stingray"
+                }
+            }
+        ]
+    }
+}

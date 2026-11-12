@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
 	"textures": {
-		"iron": "creatorlabs/lightsabers/maul/iron",
-		"laser": "creatorlabs/lightsabers/maul/laser_red",
-		"black_iron": "creatorlabs/lightsabers/maul/black_iron",
-		"red": "creatorlabs/lightsabers/maul/red"
+		"iron": "item/netherite_sword/lightsabers/maul/iron",
+		"laser": "item/netherite_sword/lightsabers/maul/laser_red",
+		"black_iron": "item/netherite_sword/lightsabers/maul/black_iron",
+		"red": "item/netherite_sword/lightsabers/maul/red"
 	},
 	"elements": [ 	 
 		{

@@ -1,11 +1,11 @@
 {
 	"__comment": "Designed by CreatorLabs with Cubik Studio - https://cubik.studio - Download 3D CreatorCraft at https://www.planetminecraft.com/texture_pack/3d-creatorcraft/",
 	"textures": {
-		"gold": "creatorlabs/lightsabers/obi/gold",
-		"iron": "creatorlabs/lightsabers/obi/iron",
-		"black_iron": "creatorlabs/lightsabers/obi/black_iron",
-		"copper": "creatorlabs/lightsabers/obi/copper",
-		"laser": "creatorlabs/lightsabers/obi/laser_blue"
+		"gold": "item/netherite_sword/lightsabers/obi/gold",
+		"iron": "item/netherite_sword/lightsabers/obi/iron",
+		"black_iron": "item/netherite_sword/lightsabers/obi/black_iron",
+		"copper": "item/netherite_sword/lightsabers/obi/copper",
+		"laser": "item/netherite_sword/lightsabers/obi/laser_blue"
 	},
 	"elements": [ 	 
 		{
