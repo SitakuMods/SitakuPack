@@ -1,18 +1,24 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "§1§lSi§9ta§cku §ePack §r§7v2.8.2\n§f§olast updated: feb-12-2023"
-  },
-  "language": {
-    "en_sk": {
-      "name": "English",
-      "region": "Sitaku",
-      "bidirectional": false
+    "pack": {
+        "min_format": 69,
+        "max_format": 97.1,
+        "description": "\u00a71\u00a7lSi\u00a79ta\u00a7cku \u00a7ePack \u00a7r\u00a77v6.0.0\n\u00a7f\u00a7olast updated: nov-07-2026"
     },
-	"ri_sk": {
-      "name": "Rikatisyï",
-      "region": "Sitaku",
-      "bidirectional": false
-    }
-  }
+	"language": {
+	        "en_sk": {
+		        "name": "English",
+		        "region": "Sitaku",
+		        "bidirectional": false
+			},
+			"ri_sk": {
+		        "name": "Rikatisyï",
+		        "region": "Sitaku",
+		        "bidirectional": false
+			},
+			"tf_sk": {
+		        "name": "Tufarik",
+		        "region": "Sitaku",
+		        "bidirectional": false
+			}
+	}
 }
